@@ -1,1 +1,1 @@
-# Shell-Scrit
+# Shell-Script
